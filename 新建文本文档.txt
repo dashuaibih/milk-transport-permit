@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>生鲜乳运输车辆准运证 - 蒙150123(2024)0103</title>
+    <meta charset="UTF-8">
+    <style>
+        body { 
+            font-family: 'Microsoft YaHei', Arial, sans-serif; 
+            max-width: 800px; 
+            margin: 20px auto; 
+            padding: 20px; 
+            background-color: #f5f9fc;
+        }
+        .header { 
+            text-align: center; 
+            border-bottom: 2px solid #1a6fb3; 
+            padding-bottom: 15px; 
+            margin-bottom: 25px;
+        }
+        h2 { color: #1a6fb3; }
+        .permit-table { 
+            width: 100%; 
+            border-collapse: collapse; 
+            margin: 25px 0;
+            box-shadow: 0 0 10px rgba(0,0,0,0.05);
+        }
+        .permit-table td { 
+            padding: 12px 15px; 
+            border: 1px solid #ddeeff; 
+        }
+        .permit-table tr:nth-child(odd) { 
+            background-color: #edf7ff; 
+        }
+        .permit-table tr:first-child { 
+            background-color: #1a6fb3; 
+            color: white;
+        }
+        .footer { 
+            margin-top: 30px; 
+            text-align: center; 
+            font-size: 0.9em; 
+            color: #666;
+            padding-top: 15px;
+            border-top: 1px dashed #ccc;
+        }
+        .stamp {
+            float: right;
+            margin: -30px 50px 0 0;
+            color: #c00;
+            font-weight: bold;
+            opacity: 0.8;
+            transform: rotate(-10deg);
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h2>生鲜乳运输车辆准运证</h2>
+        <h3>和林格尔县农牧局核发</h3>
+        <div class="stamp">电子凭证</div>
+    </div>
+
+    <table class="permit-table">
+        <tr>
+            <td><strong>准运证号</strong></td>
+            <td>蒙150123（2024）0103</td>
+        </tr>
+        <tr>
+            <td><strong>车牌号</strong></td>
+            <td>蒙A6M146</td>
+        </tr>
+        <tr>
+            <td><strong>挂车车牌号码</strong></td>
+            <td>蒙AS314挂</td>
+        </tr>
+        <tr>
+            <td><strong>车辆所有者</strong></td>
+            <td>内蒙古天赋绿能产业发展有限公司</td>
+        </tr>
+        <tr>
+            <td><strong>核定最大运载量</strong></td>
+            <td>33.02吨</td>
+        </tr>
+        <tr>
+            <td><strong>运输范围</strong></td>
+            <td>现代牧业旗下各牧场、嘉立荷（内蒙古）牧业有限公司—蒙牛公司</td>
+        </tr>
+        <tr>
+            <td><strong>批准时间</strong></td>
+            <td>2024-09-18</td>
+        </tr>
+        <tr>
+            <td><strong>有效日期</strong></td>
+            <td>2024-09-18 至 2026-09-17</td>
+        </tr>
+    </table>
+
+    <div class="footer">
+        <p>发证机关：和林格尔县农牧局</p >
+        <p>系统生成时间：2025-07-31 | 电子凭证编号：MP20240918NM150123</p >
+    </div>
+</body>
+</html>
